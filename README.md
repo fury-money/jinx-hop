@@ -1,1 +1,1 @@
-# Hopers-DEX
+# Jinx-DEX
